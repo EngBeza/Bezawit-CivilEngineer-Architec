@@ -48,7 +48,7 @@ Role: Soil Investigation Lead
 
 Developed soil exploration and testing plans, coordinating with geotechnical engineers.
 Analyzed soil data and characterized site conditions for foundation recommendations.
-[Civil Engineering VLogs](www.linkedin.com/in/bezawit-aynalem-0626272b8)
+[Civil Engineering VLogs](https://www.linkedin.com/in/bezawit-aynalem-0626272b8)
 ![EEG Band Discovery](/assets/img/design.png)
 
  
@@ -60,14 +60,14 @@ Grade: 3.13
   
 ## Relevant Coursework:
 
-Structural Analysis and Design
-Reinforced Concrete Design
-Steel Structural Design
-Soil Mechanics and Foundation Engineering
-Hydrology and Water Resources Engineering
-Transportation Engineering
-Construction Management
-Environmental Engineering
-Geographic Information Systems (GIS)
-Surveying and Geomatics
-- [Computer Vision Blog](https://www.researchgate.net/profile/Daniel-Yimam-2)
+- Structural Analysis and Design
+- Reinforced Concrete Design
+- Steel Structural Design
+- Soil Mechanics and Foundation Engineering
+- Hydrology and Water Resources Engineering
+- Transportation Engineering
+- Construction Management
+- Environmental Engineering
+- Geographic Information Systems (GIS)
+- Surveying and Geomatics
+- [Civil Engineering VLog](https://www.linkedin.com/in/bezawit-aynalem-0626272b8)
