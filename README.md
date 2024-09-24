@@ -41,7 +41,7 @@ Role: Supervisor
 Designed a stormwater drainage tunnel system using HEC-RAS and Civil 3D to model flow patterns.
 Coordinated with the city planning department to align the drainage system with urban development plans.
 Supervised construction of drainage tunnels and monitored project progress.
-![EEG Band Discovery](/assets/img/drainage.png)
+![EEG Band Discovery](/assets/img/city-drain.png)
 
 ### Foundation Design Project for a Multi-Story Building
 Role: Soil Investigation Lead
