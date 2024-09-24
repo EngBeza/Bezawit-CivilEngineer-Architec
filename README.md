@@ -34,21 +34,23 @@ Managed the planning and design of public restroom facilities in Woldia City.
 Ensured compliance with local building codes and accessibility standards.
 Collaborated with the urban planning team to integrate restroom facilities into surrounding infrastructure.
 Oversaw construction and monitored the quality of the finished project.
-
+![EEG Band Discovery](/assets/img/eeg_band_discovery.png)
 ### Stormwater Drainage Project in Woldia City
 Role: Supervisor
 
 Designed a stormwater drainage tunnel system using HEC-RAS and Civil 3D to model flow patterns.
 Coordinated with the city planning department to align the drainage system with urban development plans.
 Supervised construction of drainage tunnels and monitored project progress.
+![EEG Band Discovery](/assets/img/drainage.png)
 
 ### Foundation Design Project for a Multi-Story Building
 Role: Soil Investigation Lead
 
 Developed soil exploration and testing plans, coordinating with geotechnical engineers.
 Analyzed soil data and characterized site conditions for foundation recommendations.
-[Computer Vision Blog](https://www.researchgate.net/profile/Daniel-Yimam-2)
-![EEG Band Discovery](/assets/img/eeg_band_discovery.png)
+[Civil Engineering VLogs](www.linkedin.com/in/bezawit-aynalem-0626272b8)
+![EEG Band Discovery](/assets/img/design.png)
+
  
 ## Education
 Arba Minch University
