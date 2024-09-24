@@ -1,11 +1,11 @@
 # Civil Engineer and Architec
 
 #### Technical Skills:
--Engineering Software: HEC-RAS, Civil 3D, AutoCAD, SAP2000, GIS software
--Project Management: Timeline management, resource allocation, progress reporting
--Technical Skills: Soil investigation, drainage design, structural analysis, accessibility compliance
--Collaboration: Teamwork with urban planners, project managers, and construction teams
--Communication: Effective reporting and documentation, stakeholder presentations		       		
+- Engineering Software: HEC-RAS, Civil 3D, AutoCAD, SAP2000, GIS software.
+- Project Management: Timeline management, resource allocation, progress reporting.
+- Technical Skills: Soil investigation, drainage design, structural analysis, accessibility compliance.
+- Collaboration: Teamwork with urban planners, project managers, and construction teams.
+- Communication: Effective reporting and documentation, stakeholder presentations.       		
 
 ## Work Experience
 **Woldia City Roads Authority**
