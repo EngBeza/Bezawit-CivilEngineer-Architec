@@ -9,7 +9,7 @@
 
 ## Work Experience
 **Woldia City Roads Authority**
-Civil Engineer
+- Civil Engineer
 September 2021 – June 2022
 
 Designed and supervised the construction of a stormwater drainage tunnel system to effectively mitigate city flooding.
@@ -17,7 +17,7 @@ Managed planning and design of public restroom facilities, ensuring adherence to
 Collaborated with the urban planning team to ensure integration of infrastructure projects with the city's overall development goals.
 Conducted site inspections and prepared progress reports to monitor construction activities for timely and quality completion.
 
-FA Construction
+- FA Construction
 Intern
 February 2020 – August 2021
 
@@ -53,10 +53,10 @@ Analyzed soil data and characterized site conditions for foundation recommendati
 
  
 ## Education
-Arba Minch University
-B.S. in Civil Engineering
-August 2016 – July 2021
-Grade: 3.13
+- Arba Minch University
+- B.S. in Civil Engineering
+- August 2016 – July 2021
+- Grade: 3.13
   
 ## Relevant Coursework:
 
